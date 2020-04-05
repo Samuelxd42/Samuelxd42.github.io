@@ -116,11 +116,33 @@ p {
     border-radius: 4px;
 }
 
+.caixa {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 #servicos {
-    background: white;
-    padding-top: 120px;
-    padding-bottom: 120px;
-    width: 100%;
+	background: white;
+}
+
+#recursos {
+	color: white;
+}
+
+#servicos h2, h3 {
+	color: #7c25f8;
+}
+
+#recursos h2 {
+	color: white;
+}
+
+#recursos h3 {
+	color: #9bf0e1;
+}
+
+.albuns {
+	padding: 10px 0;
 }
 
 footer {
