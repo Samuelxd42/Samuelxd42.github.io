@@ -3,6 +3,10 @@ html, body, #home {
     height: 100%;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-image: url(https://user-images.githubusercontent.com/44476076/78522922-666dc300-77a5-11ea-9518-e7252030700e.jpg);
     background-attachment: fixed;
